@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tejas Siripurapu / Research in Recommenders and MIR"
 title_separator          : "-"
 name                     : &name "Tejas Siripurapu"
-description              : &description "A place to display some of the (amateur) research I'm doing into recommender systems for music and music information retrieval."
+description              : &description "A place to display some of the research I'm doing into recommender systems for music and music information retrieval."
 url                      : "https://teejas.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "teejas/teejas.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tejas' Rookie Research"
+  name             : "Tejas' Personal Research"
   avatar           : "profile.png"
-  bio              : "This is a collection of Jupyter notebooks related to research I'm doing out of a personal interest."
+  bio              : "A place to showcase some of the research I'm interested in and projects I've worked on."
   location         : "Bay Area, CA"
   employer         :
   pubmed           : 
