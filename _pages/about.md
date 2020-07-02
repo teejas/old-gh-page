@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Tejas' Homepage"
-excerpt: "About me"
+title: "Welcome"
+excerpt: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
