@@ -7,53 +7,52 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Illinois at Urbana-Champaign, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2019 - Present: DevOps Engineer
+  * AbbVie    |   Champaign, IL
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Customer Success/Software Intern
+  * Workato   |   Cupertino, CA
   
+* Summer 2016: Software Intern
+  * Replicon  |   Redwood City, CA
+  
+Activities and Accomplishments
+======
+* First Place in Synchrony Datathon
+  * Built an ensemble model to predict US home improvement spending based on US census data. 
+    Won first place in a compeition with both undergraduate and graduate teams. Scoring based on RMSE.
+* Stock Price Prediction Model
+  * Built a model to predict the value of a stock at close based on open, close, and volume data. 
+    Data was processed as a time series image (225x225x225 for each of the 3 dimensions open, close, and volume), 
+    and leveraged a CNN to classify the images as "buy" or "don't buy". When used for paper trading, saw a 3% ROI.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming Languages (ranked by fluency): 
+  * Python
+  * Node.js,
+  * JavaScript
+  * ReactJS
+  * R
+  * C
+  * C++
+* Spoken/Written Languages
+  * English
+  * Spanish
+* Musical Instruments
+  * Piano
+  * Violin
+  * Percussion (drums, keyboards)
   
-Talks
+Volunteer and Service Work
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Second Harvest Food Bank
+  * Voluteered to help serve food, keep inventory, and stock surplus items.
+* Saratoga Library, Santa Clara County Library District
+  * Shelved books and media items. Helped with tech services and support for patrons.
