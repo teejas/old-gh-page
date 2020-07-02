@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Notebooks"
-    url: /files/notebooks/  
+    url: /notebooks/  
         
   - title: "Blog Posts"
     url: /blog/
