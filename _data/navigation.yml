@@ -2,9 +2,6 @@
 main:
   - title: "Notebooks"
     url: /notebooks/  
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /blog/
