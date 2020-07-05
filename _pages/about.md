@@ -14,4 +14,4 @@ MIR/Recommender Systems Research
 ======
 Below is a list of links to Jupyter notebooks which represent the extent of research I've done on my own into music information retrieval and recommender systems:
 - [Album recommendation using Pitchfork reviews](https://teejas.github.io/files/notebooks/pitchfork_review_rec.html)
-- Feature extraction using Echonest dataset
+- Genre classification using CNN
