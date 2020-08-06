@@ -13,7 +13,7 @@ Education
 
 Work experience
 ======
-* June 2019 - Present: DevOps Engineer
+* June 2019 - July 2020: DevOps Engineer
   * AbbVie    |   Champaign, IL
 
 * Summer 2017: Customer Success/Software Intern
@@ -36,9 +36,9 @@ Skills
 ======
 * Programming Languages (ranked by fluency): 
   * Python
-  * Node.js,
+  * Node.js
   * JavaScript
-  * ReactJS
+  * ReactJS + React Native
   * R
   * C
   * C++

@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Notebooks"
+  - title: "Research + Jupyter Notebooks"
     url: /notebooks/  
         
-  - title: "Blog Posts"
+  - title: "Essays"
     url: /blog/
     
   - title: "CV"
