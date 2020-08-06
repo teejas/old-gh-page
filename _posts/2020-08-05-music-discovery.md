@@ -2,6 +2,7 @@
 title: 'Problems in the Music Industry: The Need for Better Recommenders and Improved Music Discovery'
 date: 2020-08-06
 permalink: /posts/2020/08/blog-post-1/
+teaser: 'Since artist compensation is dependent on the number of streams an artist can generate and the barrier of entry into music, in terms of distribution, is much lower, the entire pool of music available for streaming has become oversaturated with subpar songs and, more generally, the amount of readily streamable music is increasing rapidly. Building improved music discovery services and recommendation systems would solve these issues.'
 tags:
   - music industry
   - artist compensation
