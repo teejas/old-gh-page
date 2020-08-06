@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is a place for me to share the work I've done in topics that interest me, such as music information retrieval and recommender systems (primarily for music). At some point this may also become a place where I share pieces of writing, if I ever work up the courage.
-
 ## Music Discovery + Artist Compensation
 
 [Problems in the Music Industry: The Need for Better Recommenders and Improved Music Discovery](https://teejas.github.io/posts/2020/08/blog-post-1/)
